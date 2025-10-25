@@ -30,5 +30,5 @@ The goal of this project is to practice front-end development using clean and or
 ---
 
 ## 💬 Author
-**Developed by:** Sham  
+**Developed by:** Shyam  
 If you like this project, please ⭐ the repository!
