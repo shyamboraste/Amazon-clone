@@ -25,7 +25,7 @@ The goal of this project is to practice front-end development using clean and or
 
 
 ## 📸 Project Preview
-![Amazon Clone Screenshot](screenshot.png)
+![Amazon Clone Screenshot](amazon/screenshot.png)
 
 ---
 
